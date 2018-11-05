@@ -12,7 +12,6 @@
 ## Status
 
 * Work In Progress
-* Unlinking original prettier-java repo in progress
 
 ---
 ###### This was originally forked from [thorbenvh8/prettier-java](https://github.com/thorbenvh8/prettier-java) but due to heavy changes I decided to move to another repo, not linked to prettier-java.
